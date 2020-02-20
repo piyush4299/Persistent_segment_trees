@@ -1,0 +1,6 @@
+Name:- PIYUSH CHOTIYA
+Roll no:- 49
+Batch:- B3
+Branch:- Computer Science & Engineering
+Assignment Topic:- Demonstrate Persistent data structure using segment trees. 
+Review date:- 13/2/2020
